@@ -3,7 +3,7 @@
 
 IWorld is a personal blogging wordpress theme designed by [Samir Kumar](http://wwww.samirkr.com). It's starter wordpress theme called '_s' or 'underscores' is generated from [Underscrore Me](http://underscores.me) and is further customized heavily to make this awesome wordpress theme. 
 
-IWorld uses [Twitter Bootstrap](http://http://getbootstrap.com/) CSS framework.
+IWorld implements Google's new Material Design concept for its presentation by using  [Material Design Lite](http://www.getmdl.io/) CSS framework provided by Google.
 
 
 Contributors: automattic

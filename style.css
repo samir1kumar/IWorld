@@ -3,7 +3,7 @@ Theme Name: IWorld
 Theme URI: http://underscores.me/
 Author: Samir Kumar
 Author URI: http://www.samirkr.com
-Description: This wordpress theme is designed for personal blogging. It\'s design is powered by Twitter Bootstrap CSS Framework.
+Description: This wordpress theme is designed for personal blogging. It's design is powered by Material Design Lite CSS Framework.
 Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -22,4 +22,15 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
-----------------------------------------------------------------
+----------------------------------------------------------------*/
+
+#view-source {
+	position: fixed;
+	display: block;
+	right: 0;
+	bottom: 0;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	z-index: 900;
+}
+
